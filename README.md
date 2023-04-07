@@ -1,6 +1,6 @@
-# research-assistant-projects
+# Data-Research-Analyst-project
 
-This repository contains files of work I did (and still do) for my research assistant job. Most of them are code that web scrapping code that retrieves data from SEC.gov
+This repository contains files of work I did (and still do) for my data research analyst job. Most of them are code that web scrapping code that retrieves data from SEC.gov
 
 The major task of this project is to perform data collection by using Python with BeautifulSoup package.
 
